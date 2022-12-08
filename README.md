@@ -1,2 +1,2 @@
-# Senasi-App
-Aplikasi Sentimen Analisis Inflasi
+# Senasi_project
+Website mengenai Sentimen Data Tweets Tentang Inflasi 
